@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DialogCreatorEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal\DialogCreatorProject\Intermediate\Build\Win64\DialogCreatorProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal\DialogCreatorProject\Plugins\DialogCreator\Intermediate\Build\Win64\UnrealEditor\Development\DialogCreatorEditor\DialogCreatorEditor.cpp.obj"
+"C:\Unreal\DialogCreatorProject\Plugins\DialogCreator\Intermediate\Build\Win64\UnrealEditor\Development\DialogCreatorEditor\Default.rc2.res"
+/OUT:"C:\Unreal\DialogCreatorProject\Plugins\DialogCreator\Intermediate\Build\Win64\UnrealEditor\Development\DialogCreatorEditor\UnrealEditor-DialogCreatorEditor.lib"

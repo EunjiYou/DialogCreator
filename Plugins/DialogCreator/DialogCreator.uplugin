@@ -19,6 +19,11 @@
 			"Name": "DialogCreator",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "DialogCreatorEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
 		}
 	]
 }

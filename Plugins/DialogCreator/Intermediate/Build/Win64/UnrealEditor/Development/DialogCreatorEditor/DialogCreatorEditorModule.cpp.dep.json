@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\unreal\\dialogcreatorproject\\plugins\\dialogcreator\\source\\dialogcreatoreditor\\private\\dialogcreatoreditormodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal\\dialogcreatorproject\\intermediate\\build\\win64\\dialogcreatorprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unreal\\dialogcreatorproject\\plugins\\dialogcreator\\intermediate\\build\\win64\\unrealeditor\\development\\dialogcreatoreditor\\definitions.dialogcreatoreditor.h",
+            "c:\\unreal\\dialogcreatorproject\\plugins\\dialogcreator\\source\\dialogcreatoreditor\\public\\dialogcreatoreditormodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
