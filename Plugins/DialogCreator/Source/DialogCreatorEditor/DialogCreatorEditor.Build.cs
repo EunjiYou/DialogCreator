@@ -38,7 +38,11 @@ public class DialogCreatorEditor : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-				// ... add private dependencies that you statically link with here ...	
+				
+				"DialogCreator",
+
+				"UnrealEd",
+				"AssetTools"
 			}
 			);
 		
